@@ -22,7 +22,7 @@ Interpretation:
 - However, in a medical context, **false negatives (missing malignant cases)** are critical.
 - This suggests that further optimisation should prioritise recall for the malignant class rather than overall accuracy.
 
-- Logistic Regression Accuracy:** XX%
+- Logistic Regression Accuracy: 0.98%
 - MLP Accuracy: 97.66%
 
 The MLP model outperformed the baseline Logistic Regression model, indicating its ability to capture more complex, non-linear relationships in the data.
