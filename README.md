@@ -61,7 +61,7 @@ The emphasis is on evaluating the models properly for a medical setting, where m
 1. Download the dataset from the [UCI link above](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) and save it in this folder as `Breast_cancer.csv`. The notebook expects an ID column first, the 30 features next, and the diagnosis (`M`/`B`) as the last column.
 2. Install the dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
+   pip install -r requirements.txt
    ```
 3. Open and run `Breast_Cancer_Classification.ipynb` in Jupyter.
 
